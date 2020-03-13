@@ -8,7 +8,7 @@ def third_challenge
       :matriarch => {
         :name => "Romeo",
         :age => "15",
-        :status => "alive"
+        :status => "alive",
         },
       :hero => {
         :name => "Lady Montague",
