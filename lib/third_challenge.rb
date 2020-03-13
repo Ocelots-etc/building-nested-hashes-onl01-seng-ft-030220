@@ -11,7 +11,9 @@ def third_challenge
         },
       :hero => {
         :name => "Lady Montague",
-        :age => "54"
+        :age => "54",
+        :status => "alive"
+        
         },
       :hero_friends => []
    },
