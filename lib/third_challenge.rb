@@ -25,11 +25,7 @@ def third_challenge
        :name => "Lady Capulet",
        :age => "51",
        },
-     :hero => {
-       :name => "Lady Montague",
-       :age => "54"
-       },
-      :heroine => {
+          :heroine => {
         #your key/value pairs here
         },
       :heroine_friends => []
