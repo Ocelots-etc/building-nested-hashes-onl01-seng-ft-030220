@@ -4,7 +4,6 @@ def second_challenge
       :patriarch => {
 }
       :matriarch => {
-
 },
 
 },
